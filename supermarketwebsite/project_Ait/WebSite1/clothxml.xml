@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>admin/uploads/red.jpg</ImageUrl>
+    <NavigateUrl>http://google.com</NavigateUrl>
+    <AlternateText>b1</AlternateText>
+    <Impressions>1</Impressions>
+    <Keyword>b1</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>admin/uploads/black.jpg</ImageUrl>
+    <NavigateUrl>http://google.com</NavigateUrl>
+    <AlternateText>b2</AlternateText>
+    <Impressions>2</Impressions>
+    <Keyword>b2</Keyword>
+  </Ad>
+
+
+</Advertisements>
